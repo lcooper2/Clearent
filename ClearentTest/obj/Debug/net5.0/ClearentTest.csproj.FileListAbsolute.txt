@@ -1,0 +1,16 @@
+C:\Users\Logan Cooper\source\repos\ClearentTest\ClearentTest\obj\Debug\net5.0\ClearentTest.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Logan Cooper\source\repos\ClearentTest\ClearentTest\obj\Debug\net5.0\ClearentTest.AssemblyInfoInputs.cache
+C:\Users\Logan Cooper\source\repos\ClearentTest\ClearentTest\obj\Debug\net5.0\ClearentTest.AssemblyInfo.cs
+C:\Users\Logan Cooper\source\repos\ClearentTest\ClearentTest\obj\Debug\net5.0\ClearentTest.csproj.CoreCompileInputs.cache
+C:\Users\Logan Cooper\source\repos\ClearentTest\ClearentTest\bin\Debug\net5.0\ClearentTest.exe
+C:\Users\Logan Cooper\source\repos\ClearentTest\ClearentTest\bin\Debug\net5.0\ClearentTest.deps.json
+C:\Users\Logan Cooper\source\repos\ClearentTest\ClearentTest\bin\Debug\net5.0\ClearentTest.runtimeconfig.json
+C:\Users\Logan Cooper\source\repos\ClearentTest\ClearentTest\bin\Debug\net5.0\ClearentTest.runtimeconfig.dev.json
+C:\Users\Logan Cooper\source\repos\ClearentTest\ClearentTest\bin\Debug\net5.0\ClearentTest.dll
+C:\Users\Logan Cooper\source\repos\ClearentTest\ClearentTest\bin\Debug\net5.0\ref\ClearentTest.dll
+C:\Users\Logan Cooper\source\repos\ClearentTest\ClearentTest\bin\Debug\net5.0\ClearentTest.pdb
+C:\Users\Logan Cooper\source\repos\ClearentTest\ClearentTest\obj\Debug\net5.0\ClearentTest.dll
+C:\Users\Logan Cooper\source\repos\ClearentTest\ClearentTest\obj\Debug\net5.0\ref\ClearentTest.dll
+C:\Users\Logan Cooper\source\repos\ClearentTest\ClearentTest\obj\Debug\net5.0\ClearentTest.pdb
+C:\Users\Logan Cooper\source\repos\ClearentTest\ClearentTest\obj\Debug\net5.0\ClearentTest.genruntimeconfig.cache
+C:\Users\Logan Cooper\source\repos\ClearentTest\ClearentTest\obj\Debug\net5.0\ClearentTest.csproj.AssemblyReference.cache
